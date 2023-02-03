@@ -1,0 +1,30 @@
+<p><div><p b>
+  <style>
+    * {
+  background: #1a4341;
+}
+* > * {
+  width: 50;
+  height: 50;
+  background: #f3ac3c;
+  border-radius: 1in;
+  margin: 90 70;
+  box-shadow: 70px 70px #998235;
+}
+body {
+  background: #998235;
+}
+p {
+  border-radius: 1in 1in 0 0;
+  box-shadow: 70px 0 #998235;
+}
+div {
+  margin: -140 210;
+  rotate: 90deg;
+  box-shadow: 70px 70px #f3ac3c;
+}
+[b] {
+  rotate: 90deg;
+  box-shadow: 70vh 0 #f3ac3c;
+  background: #998235;
+}
