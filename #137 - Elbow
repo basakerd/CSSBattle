@@ -1,0 +1,10 @@
+<style>
+  *{background:#6592CF}
+
+  *>*{
+    width:250;
+    height:150;
+    border: solid #060F55;
+    border-width:53q 0 0 53q;
+    border-radius:106q 0;
+    margin:50
