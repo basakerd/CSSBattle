@@ -1,0 +1,5 @@
+<style>
+*{background: #4F77FF}
+*>*{
+margin: 50;
+background: repeating-linear-gradient(to right,#10388F 0 63q,#ffffff00 0 85q,#FFF 0 106q, #ffffff00 0 127q)
