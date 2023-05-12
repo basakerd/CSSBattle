@@ -1,0 +1,40 @@
+Solution #1:
+<p> <p a> <p b><style>
+  *{background: #E38F66;
+   }
+  p{border-radius: 140q;
+    background: #FFFBDA;}
+  [a]{margin:84 -11;
+      width:40;
+      height:120;
+      box-shadow: 70px 109px #FFFBDA;}
+  [b]{ 
+    width:120; 
+    height:41;
+    margin:-95 -30;  
+    box-shadow: 100px 70px #FFFBDA;
+    
+
+Solution #2:
+
+<p> <p a> <p b><p c><style>
+  *{background: #E38F66;
+    position: fixed;
+   }
+p{
+  left: 0;
+  top: 84;
+  width: 40;
+  height: 120;
+  border-radius: 50px;
+  background: #FFFBDA;
+}
+[a],[b]{
+  rotate: 90deg;
+  translate: 40px 40px;
+  box-shadow: -30px -30px 0 -10px #E38F66, -20px 5px 0 -10px #FFFBDA, 30px 30px 0 -10px #E38F66, 22px 0 0 -15px #FFFBDA;
+}
+  [b],[c]{
+    top:164;
+    left: 80px;
+  }
