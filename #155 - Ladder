@@ -1,0 +1,17 @@
+<p><p a><p b><style>
+  *{background: #6592CF;}
+  p{border-radius: 20px;
+    background: #060F55;
+    position: fixed;
+    top: 45;
+    left: 120;
+   -webkit-box-reflect: below -30px ;}
+  [a]{
+      width:30;
+      height:250;
+      box-shadow: 130px 0px #060F55;}
+  [b]{ 
+      width: 150;
+      height: 30;
+      top: 160;
+      box-shadow: 10px 60px #060F55;
