@@ -1,0 +1,28 @@
+<p><p a><p b> <p c>
+  <style>*{background:#66284A;}
+ p{
+    width: 150;
+    height: 150;
+    position: fixed;
+    left: 120;
+    top: 60;
+    border-radius: 1in;
+    background: #F0CD48;
+   }
+    [a]{
+      width: 41;
+      height: 250;
+      top: -0;
+      transform: translate(52px, 10px)      
+    }
+    [b]{
+      width: 41;
+      height: 250; 
+      transform: rotate(59deg) translate(-15px, -65px)      
+    }
+    [c]{
+      width: 41;
+      height: 250; 
+      top: -0;
+      transform: rotate(120deg) translate(-15px, -55px)  
+    }
