@@ -26,3 +26,19 @@
       top: -0;
       transform: rotate(120deg) translate(-15px, -55px)  
     }
+
+----------
+<p><p a><p b>
+<style>
+*{background: #66284A}
+*>*{
+background:  #F0CD48;
+border-radius:1in;
+margin: 75 125}
+p{position:fixed;
+width:40;
+height200;
+margin: -45 55}
+[a]{rotate:60deg}
+[b]{rotate:120deg
+
