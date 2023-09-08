@@ -1,0 +1,15 @@
+<p> <p a><style>
+*{background:#8D1C24}
+p{
+  background:conic-gradient(#8D1C24 25%, #EC9140 0%);
+  width: 140px;
+  height: 140px;
+  border-radius: 1in;
+  rotate: 90deg;
+  margin:75 82;
+}
+  [a]{
+  rotate:-90deg;
+  margin: -190 230;
+}
+    
